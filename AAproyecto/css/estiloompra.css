@@ -1,0 +1,13 @@
+body{
+    margin-top: 1.2cm;
+    margin-left: 70mm;
+    margin-right: 70mm;
+    background-color: rgb(86, 190, 231);  
+}
+.busqueda{
+    text-align: center;
+    background-color: rgb(10, 89, 207);
+    border-radius: 1cm;
+    font-family: teko;
+    font-size: 1cm;
+}

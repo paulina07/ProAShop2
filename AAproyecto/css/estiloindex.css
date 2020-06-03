@@ -1,0 +1,15 @@
+body{
+    margin-left: 70mm;
+    margin-right: 70mm;
+    background-color: rgb(86, 190, 231); 
+}
+p, label{
+    font-family: teko;
+    font-size: 0.75cm;
+    text-align: center;
+} 
+.fecha{ 
+    text-align: center;
+    background-color: rgb(10, 89, 207);
+    border-radius: 1cm; 
+}
