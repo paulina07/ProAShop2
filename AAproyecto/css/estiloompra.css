@@ -7,7 +7,10 @@ body{
 .busqueda{
     text-align: center;
     background-color: rgb(10, 89, 207);
-    border-radius: 1cm;
     font-family: teko;
     font-size: 1cm;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid white; 
+    border-radius: 1cm;
 }
